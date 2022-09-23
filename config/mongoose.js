@@ -1,5 +1,5 @@
 
-const DB='mongodb+srv://devhaan:dev07dev@cluster0.37zxfz5.mongodb.net/Contact?retryWrites=true&w=majority'
+const DB='*******************************************'
 
 const mongoose = require('mongoose');
 
