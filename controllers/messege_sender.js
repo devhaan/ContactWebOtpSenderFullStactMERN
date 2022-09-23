@@ -1,5 +1,5 @@
-const accountSid = "AC3ac69e967b6db1a13f3f7b6d7197c25b";
-const authToken = "93ad348c695c256d12acadc7912d4a17";
+const accountSid = "AC3ac***********************25b";
+const authToken = "93ad34**********************4a17";
 const client = require("twilio")(accountSid, authToken);
 const OtpLog=require("../model/OtpLogTimeSheet")
 module.exports.messageSend = (req, res) => {
